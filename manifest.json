@@ -1,0 +1,11 @@
+{
+  "domain": "enigma",
+  "name": "Enigma2 Integration",
+  "version" : "1.4",
+  "documentation": "https://github.com/HengeDK/homeassistant-enigma-player",
+  "issue_tracker": "https://github.com/HengeDK/homeassistant-enigma-player/issues",
+  "dependencies": [],
+  "after_dependencies": [],
+  "codeowners": ["@HengeDK"],
+  "requirements": ["beautifulsoup4==4.6.3"]
+}
